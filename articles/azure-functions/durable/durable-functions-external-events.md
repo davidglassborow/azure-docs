@@ -16,7 +16,7 @@ ms.author: azfuncdf
 
 Orchestrator functions have the ability to wait and listen for external events. This feature of [Durable Functions](durable-functions-overview.md) is often useful for handling human interaction or other external triggers.
 
-Note: Orchestrator functions support asnychronous request-response patterns, but are not suitable for synchronous request-response patterns.
+Note: Orchestrator functions support asynchronous request-response patterns, but are not suitable for synchronous request-response patterns.
 
 ## Wait for events
 
